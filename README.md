@@ -1,5 +1,5 @@
 # 💫About Me :
-Hello! My name is Doan Truong Khanh Nhi, currently a 3rd year student at Ho Chi Minh City Banking University (HUB), majoring in Data Science in Business.
+Hello! My name is Doan Truong Khanh Nhi, currently a 4rd year student at Ho Chi Minh City Banking University (HUB), majoring in Data Science in Business.
 ## How I Got Started in Data Analysis
 I began my journey in data analysis during my second year at Ho Chi Minh City Banking University (HUB). A foundational course in statistics sparked my interest, and a university workshop on data visualization further fueled my passion. Practical projects and internships allowed me to apply predictive analytics and business intelligence concepts. The support from my professors and peers has been instrumental, motivating me to delve deeper into the field and explore its vast potential.
 ## What Intrigues Me Most About Data
